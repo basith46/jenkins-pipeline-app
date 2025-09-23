@@ -18,7 +18,7 @@ pipeline {
             steps {
                 echo 'Deploying container...'
                 sh 'docker rm -f my-app-container || true'
-                sh 'docker run -d -p 3000:3000 --name my-app-container my-app:latest'
+                sh 'docker run -d -p 3001:3000 --name my-app-container my-app:latest'
             }
         }
     }
