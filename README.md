@@ -91,6 +91,6 @@ Copy the HTTPS URL from ngrok (https://unlicentiated-urijah-decayable.ngrok-free
   * Monitor Build History and Console Output to see stages executing
 
 # References
-    * Jenkins Documentation: https://www.jenkins.io/doc/
+    * Jenkins Documentation: https://www.jenkins.io/doc
     * GitHub Webhooks: https://docs.github.com/en/developers/webhooks-and-events/webhooks
     * ngrok: https://ngrok.com/docs
